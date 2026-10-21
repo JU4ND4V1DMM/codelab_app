@@ -25,6 +25,13 @@ Haz doble clic en `Actualizar_y_Abrir.vbs`. Cada vez que lo abras:
 
 No necesitas descargar nada a mano nunca más — siempre queda actualizado con un doble clic.
 
+## Actualizaciones dentro de la app
+
+Además del `git pull` automático de este launcher, CODELAB revisa por sí sola si hay una versión más
+reciente cada vez que la abres (y cada hora si la dejas abierta). Si hay una disponible, aparece un
+aviso en la barra superior — un clic la descarga e instala. Cuando un cambio es crítico, esa
+actualización puede volverse obligatoria para seguir usando la app.
+
 ## Problemas comunes
 
 - **Windows SmartScreen advierte "aplicación no reconocida"**: es normal en instaladores sin firma de código
